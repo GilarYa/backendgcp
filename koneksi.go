@@ -1,4 +1,4 @@
-package bckendgcp
+package backendgcp
 
 import (
 	"context"
