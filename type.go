@@ -1,4 +1,4 @@
-package gcfbackend1214005
+package bckendgcp
 
 type GeometryPolygon struct {
 	Coordinates [][][]float64 `json:"coordinates" bson:"coordinates"`

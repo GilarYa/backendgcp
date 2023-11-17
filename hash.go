@@ -1,4 +1,4 @@
-package gcfbackend1214005
+package bckendgcp
 
 import "golang.org/x/crypto/bcrypt"
 
